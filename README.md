@@ -1,5 +1,7 @@
 # 🚗 BMW Global Car Sales Dashboard (Power BI Project)
 
+ [**View Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjZlMTZlYzYtNzk4MS00NmU1LWIxMzMtNzU4NTkwMzk3NDA3IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
+
 ## 🧩 Problem Statement
 
 Understanding sales performance across global regions, customer channels, and vehicle models is crucial for informed decision-making in the automotive industry. This dashboard provides BMW with powerful insights into sales patterns, regional performance, customer buying behavior, and revenue contributions from various product lines.
@@ -55,7 +57,7 @@ Created several DAX measures to enable deeper business insights:
 
 ### 4. **Visualizations**
 - Clean, modern dashboard layout built using:
-  - Cards, Bar Charts, Column Charts, Line Graphs
+  - Cards, Pie Charts, Column Charts, Tables
   - Dynamic images for each car model
   - Filters/Slicers for **Region**, **Year**, **Channel**, **Country**, and **Model**
 
@@ -83,8 +85,11 @@ Created several DAX measures to enable deeper business insights:
 
 ## 🔗 Access Dashboard & Dataset
 
-👉 **[Power BI Dashboard Link](#)** (To be added)\
-📥 **[Download Dataset](#)** (To be added)
+* [**Dataset(CSV)**]()
+* [**Power BI Dashboard (.pbix)**]()
+* [**Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjZlMTZlYzYtNzk4MS00NmU1LWIxMzMtNzU4NTkwMzk3NDA3IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
+* [**Power BI Dashboard image 1 (Dashboard.png)**]()
+* [**Power BI Dashboard image 2 (All Models.png)**]()
 
 ---
 
@@ -100,7 +105,7 @@ Created several DAX measures to enable deeper business insights:
 
 ## 📣 Contact
 
-If you're interested in collaborating, reviewing the dashboard, or discussing improvements, feel free to reach out via [LinkedIn](#) or email me at **youremail@example.com**.
+If you're interested in collaborating, feel free to reach out via [LinkedIn]().
 
 ---
 
