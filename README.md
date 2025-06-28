@@ -1,5 +1,9 @@
 # 🚗 BMW Global Car Sales Dashboard (Power BI Project)
 
+ <img width="743" alt="Image" src="https://github.com/user-attachments/assets/627c2f73-3165-4169-b637-2df180b27d8b" />
+
+ <img width="675" alt="Image" src="https://github.com/user-attachments/assets/231e9ea6-2936-4408-9c3e-397014e4fcd6" />
+
  [**View Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjZlMTZlYzYtNzk4MS00NmU1LWIxMzMtNzU4NTkwMzk3NDA3IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
 
 ## 🧩 Problem Statement
@@ -85,11 +89,11 @@ Created several DAX measures to enable deeper business insights:
 
 ## 🔗 Access Dashboard & Dataset
 
-* [**Dataset(CSV)**]()
-* [**Power BI Dashboard (.pbix)**]()
+* [**Dataset(CSV)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/01%20BMW_Sales_Data.csv)
+* [**Power BI Dashboard (.pbix)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/04%20BMW%20Car%20Sales%20Analytics.pbix)
 * [**Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjZlMTZlYzYtNzk4MS00NmU1LWIxMzMtNzU4NTkwMzk3NDA3IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
-* [**Power BI Dashboard image 1 (Dashboard.png)**]()
-* [**Power BI Dashboard image 2 (All Models.png)**]()
+* [**Power BI Dashboard image 1 (Dashboard.png)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/02%20BMW%20Overview%20Dashboard%20Page%201.PNG)
+* [**Power BI Dashboard image 2 (All Models.png)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/03%20BMW%20All%20Models%20Page%202.PNG)
 
 ---
 
@@ -105,7 +109,7 @@ Created several DAX measures to enable deeper business insights:
 
 ## 📣 Contact
 
-If you're interested in collaborating, feel free to reach out via [LinkedIn]().
+If you're interested in collaborating, feel free to reach out via [LinkedIn](http://www.linkedin.com/in/samuel-kayode-22371b216).
 
 ---
 
