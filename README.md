@@ -79,11 +79,14 @@ Created several DAX measures to enable deeper business insights:
 
 ## 💡 Business Insights Uncovered
 
-- Identify **top-selling models** and their associated revenues.
-- Reveal **regional and country-level trends** in customer demand.
-- Understand **channel effectiveness** (e.g., Online vs Dealership).
-- Assess **time-based patterns** in sales using date intelligence.
-- Enable dynamic, self-service exploration via slicers and filters.
+- **Overall Performance:** $1.13B revenue from 15,002 cars sold, with +24% growth in both revenue and sales volume.
+- **Top Models:** Sales evenly spread across BMW Z4 (666), 8 Series (641), M4 (620), and i8 (615).
+- **Geographic Insights:**
+  - North America (U.S., Mexico, Canada): Strongest market, contributing $225M+ revenue.
+  - Africa (Nigeria, Kenya, Egypt): Growing demand, solid expansion beyond traditional markets.
+  - Latin America (Chile, Colombia): Showing consistent performance and potential for scale.  
+- **Sales Channels:** Wholesale leads with 45%, followed by Dealerships (33%) and Online (22%) – with online sales highlighting BMW’s digital transformation.
+- **Financial Trends:** Revenue stable across months ($60M–$100M), with steady year-on-year gains rather than seasonal spikes.
 
 ---
 
